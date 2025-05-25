@@ -98,7 +98,7 @@ Le projet génère des graphiques interactifs montrant :
 *Analyse du conditionnement des matrices de Hilbert*
 
 ### Autres Visualisations
-![Visualisation 1](src/Resources/images/image4.png)
+![Visualisation 1](Align/src/Resources/images/image1.png)
 ![Visualisation 2](src/Resources/images/Screenshot%20from%202025-03-13%2015-00-03.png)
 ![Visualisation 3](src/Resources/images/Screenshot%20from%202025-03-13%2023-32-42.png)
 ![Visualisation 4](src/Resources/images/Screenshot%20from%202025-03-13%2023-33-29.png)
