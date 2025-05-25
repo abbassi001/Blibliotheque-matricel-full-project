@@ -86,7 +86,7 @@ double prediction = modele.eval(xNouveau);
 Le projet génère des graphiques interactifs montrant :
 
 ### Régression Polynomiale
-![Exemple de régression polynomiale](src/Resources/images/image1.png)
+![Exemple de régression polynomiale](image1.png)
 *Régression polynomiale avec points de support*
 
 ### Interpolation par Splines
