@@ -114,7 +114,7 @@ Le projet génère des graphiques interactifs montrant :
 
 ### Installation
 ```bash
-git clone [votre-repo]
+git clone https://github.com/abbassi001/Blibliotheque-matricel-full-project.git
 cd Align
 mvn clean compile
 ```
@@ -188,7 +188,7 @@ Ce projet illustre :
 
 ## 👨‍💻 Auteur
 
-Développé dans le cadre d'un cours de Programmation Scientifique - Université [Nom]
+Développé dans le cadre d'un cours de Programmation Scientifique - Université Le Havre Normandie 
 
 ---
 
