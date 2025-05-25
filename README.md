@@ -50,6 +50,7 @@ Align/
 
 ## 🎯 Cas d'Usage
 
+
 ### 1. Calcul Matriciel
 ```java
 // Création et manipulation de matrices
@@ -84,13 +85,25 @@ double prediction = modele.eval(xNouveau);
 
 Le projet génère des graphiques interactifs montrant :
 
-![Exemple de régression polynomiale](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Regression+Polynomiale)
+### Régression Polynomiale
+![Exemple de régression polynomiale](src/Resources/images/image1.png)
 *Régression polynomiale avec points de support*
 
-![Exemple d'interpolation spline](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=Interpolation+Spline)
+### Interpolation par Splines
+![Exemple d'interpolation spline](src/Resources/images/image2.png)
 *Interpolation par splines cubiques*
 
-![Analyse du conditionnement](https://via.placeholder.com/800x400/FF9800/FFFFFF?text=Analyse+Conditionnement)
+### Analyse du Conditionnement
+![Analyse du conditionnement](src/Resources/images/image3.png)
+*Analyse du conditionnement des matrices de Hilbert*
+
+### Autres Visualisations
+![Visualisation 1](src/Resources/images/image4.png)
+![Visualisation 2](src/Resources/images/Screenshot%20from%202025-03-13%2015-00-03.png)
+![Visualisation 3](src/Resources/images/Screenshot%20from%202025-03-13%2023-32-42.png)
+![Visualisation 4](src/Resources/images/Screenshot%20from%202025-03-13%2023-33-29.png)
+![Visualisation 5](src/Resources/images/Screenshot%20from%202025-03-13%2023-34-03.png)
+![Visualisation 6](src/Resources/images/Screenshot%20from%202025-03-13%2023-33-46.png)
 *Analyse du conditionnement des matrices de Hilbert*
 
 ## 🔧 Installation et Utilisation
