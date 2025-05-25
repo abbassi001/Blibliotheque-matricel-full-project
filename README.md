@@ -90,20 +90,20 @@ Le projet génère des graphiques interactifs montrant :
 *Régression polynomiale avec points de support*
 
 ### Interpolation par Splines
-![Exemple d'interpolation spline](src/Resources/images/image2.png)
+![Exemple d'interpolation spline](image2.png)
 *Interpolation par splines cubiques*
 
 ### Analyse du Conditionnement
-![Analyse du conditionnement](src/Resources/images/image3.png)
+![Analyse du conditionnement](image3.png)
 *Analyse du conditionnement des matrices de Hilbert*
 
 ### Autres Visualisations
-![Visualisation 1](Align/src/Resources/images/image1.png)
-![Visualisation 2](src/Resources/images/Screenshot%20from%202025-03-13%2015-00-03.png)
-![Visualisation 3](src/Resources/images/Screenshot%20from%202025-03-13%2023-32-42.png)
-![Visualisation 4](src/Resources/images/Screenshot%20from%202025-03-13%2023-33-29.png)
-![Visualisation 5](src/Resources/images/Screenshot%20from%202025-03-13%2023-34-03.png)
-![Visualisation 6](src/Resources/images/Screenshot%20from%202025-03-13%2023-33-46.png)
+![Visualisation 1](image1.png)
+![Visualisation 2](Screenshot%20from%202025-03-13%2015-00-03.png)
+![Visualisation 3](Screenshot%20from%202025-03-13%2023-32-42.png)
+![Visualisation 4](Screenshot%20from%202025-03-13%2023-33-29.png)
+![Visualisation 5](Screenshot%20from%202025-03-13%2023-34-03.png)
+![Visualisation 6](Screenshot%20from%202025-03-13%2023-33-46.png)
 *Analyse du conditionnement des matrices de Hilbert*
 
 ## 🔧 Installation et Utilisation
